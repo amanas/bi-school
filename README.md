@@ -1,4 +1,4 @@
-BigData and Hadoop module of escuela-bi
+BigData and hadoop module of escuela-bi
 =======================================
 An introduction to BigData with hadoop - cloudera suite focused
 
