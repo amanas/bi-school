@@ -33,20 +33,20 @@ Index
     * [hortonworks](http://hortonworks.com/)
 5. Virtualización hadoop 
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
-    * [Bluemix](http://www.ibm.com/Bluemix) - virtualización de BigInsights
+    * [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) - virtualización de BigInsights
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
 6. Suite Cloudera 
-    * [home]
+    * [home](http://cloudera.com/)
     * [intro]
-    * [virtual box]
+    * [virtual box](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
 7. Frameworks map/reduce 
     1. Mapreduce - java api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
-        * [ex: word count +/- histogram] 
-        * [package and submit] 
+        * [ex: word count +/- histogram] - todo: create maven project
+        * [package and submit] - add script and doc to previous project
         * On top of it
-        	[cascading]
-        	[cascalog]        
+        	[cascading](http://www.cascading.org/)
+        	[cascalog](http://cascalog.org/)        
     2. Mapreduce - python api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
         * ex:  word count - the first in the document (no python) 
