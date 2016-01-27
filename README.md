@@ -1,4 +1,4 @@
-BigData and Hadoop module of escuela-bi
+BigData and Hadoop module for escuela-bi
 =======================================
 An introduction to BigData with Hadoop - cloudera suite focused
 
@@ -18,7 +18,7 @@ Index
     * [intro 2](http://www.slideshare.net/nasrinhussain1/big-data-ppt-31616290)
     * [quotes](http://www.slideshare.net/BernardMarr/big-data-best-quotes/7-You_can_have_datawithout_information)
 2. Map/reduce
-    * [intro/pseudocódigo/python](http://www.slideshare.net/JeffPatti/map-reducebeyondwordcount)
+    * [intro/pseudocode/python](http://www.slideshare.net/JeffPatti/map-reducebeyondwordcount)
     * [ex: discuss together a minimal wc ex]
 3. Hadoop - YARN
     * [home](http://hadoop.apache.org/) and [doc](http://hadoop.apache.org/docs/current/)
