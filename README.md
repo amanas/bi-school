@@ -33,7 +33,7 @@ Index
     * [hortonworks](http://hortonworks.com/)
 5. Virtualización hadoop 
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
-    * [Bluemix] - virtualización de BigInsights
+    * [Bluemix](http://www.ibm.com/Bluemix) - virtualización de BigInsights
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
 6. Suite Cloudera 
     * [home]
