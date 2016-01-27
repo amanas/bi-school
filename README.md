@@ -45,8 +45,8 @@ Index
         * [ex: word count +/- histogram] - todo: create maven project
         * [package and submit] - add script and doc to previous project
         * On top of it
-        	[cascading](http://www.cascading.org/)
-        	[cascalog](http://cascalog.org/)        
+        	* [cascading](http://www.cascading.org/)
+        	* [cascalog](http://cascalog.org/)        
     2. Mapreduce - python api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
         * ex:  word count - the first in the document (no python) 
