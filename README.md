@@ -66,7 +66,7 @@ Index
 		* [python api + python repl]
 		* [ex: python repl wordcount]
 		    Optional - scala repl
-8. Databases for Hadoop
+8. SQL for Hadoop
 	1. Impala - MPP
 		* [home]
 		* [ex: externa table +/- histograma]
@@ -86,6 +86,8 @@ Index
 	2. Kafka 
 		* [home]
 		* [intro]
+		* [shell clients]
+		* ex: create a topic and play with producer and consumer clients
 	3. Sqoop
 		* [home]
 		* [cloudera example link]
