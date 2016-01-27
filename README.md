@@ -1,6 +1,6 @@
-BigData and hadoop module of escuela-bi
+BigData and Hadoop module of escuela-bi
 =======================================
-An introduction to BigData with hadoop - cloudera suite focused
+An introduction to BigData with Hadoop - cloudera suite focused
 
 Example's dataset
 -----------------
@@ -25,17 +25,17 @@ Index
     * [intro](todo)
     * [hdfs commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
     * ex: copy dataset to hdfs
-4. Suites hadoop  	
+4. Suites Hadoop  	
     * [cloudera](http://cloudera.com/)
     	* look at [QuickStart VM](http://www.cloudera.com/get-started/cloudera-live.html) and [install it](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
     	* live HUE demo [registering](http://go.cloudera.com/hue-demo) or [without registration](http://demo.gethue.com/) - quite limited and slow 
     * [BigInsights](http://www.ibm.com/analytics/us/en/technology/hadoop/)
     * [hortonworks](http://hortonworks.com/)
-5. Virtualización hadoop 
+5. Virtualización Hadoop 
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
     * [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) - virtualización de BigInsights
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
-6. Suite Cloudera 
+6. Suite cloudera 
     * [home](http://cloudera.com/)
     * [intro]
     * [virtual box](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
