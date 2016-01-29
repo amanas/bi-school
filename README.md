@@ -100,4 +100,5 @@ TODOs
 * preparar proyecto maven para hadoop mapreduce java api
 * probar la máquina virtual y comprobar que trae todos los servicio necesarios
 * seguir de principio a fin todos los ejemplos comprobando que funcionan  
+* [BigInsights home](http://www.ibm.com/analytics/us/en/technology/hadoop/) 
 * [BigInsights en Bluemix](https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop)
