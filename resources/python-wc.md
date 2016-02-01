@@ -1,15 +1,5 @@
-Using shell commands
---------------------
-´´´sh
-hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-streaming-2.6.0-mr1-cdh5.5.1.jar \
--input el-quijote.txt \
--output el-quijote-wc-python-bin \
--mapper /bin/cat \
--reducer /usr/bin/wc
-´´´
-
-or using python scripts
------------------------
+Map reduce with python 
+----------------------
 
 mapper.py
 
