@@ -3,7 +3,7 @@ Map reduce with python
 
 mapper.py
 
-´´´python
+```python
 #!/usr/bin/env python
 import sys
  
@@ -18,11 +18,11 @@ for line in sys.stdin:
     #--- output tuples [word, 1] in tab-delimited format---
     for word in words: 
         print '%s\t%s' % (word, "1")
-´´´
+```
 
 reducer.py
 
-´´´python
+```python
 #!/usr/bin/env python
 import sys
  
@@ -51,11 +51,11 @@ for line in sys.stdin:
 # Note: they are unsorted
 for word in word2count.keys():
     print '%s\t%s'% ( word, word2count[word] )
-´´´
+```
 
 and run it
 
-´´´sh
+```sh
 hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-streaming-2.6.0-mr1-cdh5.5.1.jar \
 -input el-quijote.txt \
 -output el-quijote-wc-python \
@@ -63,4 +63,4 @@ hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-streaming-2.6.0-mr1-cdh5.5.1.ja
 -reducer reducer.py \
 -file mapper.py \
 -file reducer.py
-´´´  
+```
