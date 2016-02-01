@@ -48,7 +48,7 @@ Index
         	* [cascalog](http://cascalog.org/)        
     2. Mapreduce - python api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
-        * ex: [word count](https://github.com/amanas/bi-school/resources/python-wc) - try it 
+        * ex: [word count](https://github.com/amanas/bi-school/python-wc.md) - try it 
     3. Pig
 		* [home]
 		* [intro]
