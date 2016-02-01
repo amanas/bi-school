@@ -48,12 +48,12 @@ Index
         	* [cascalog](http://cascalog.org/)        
     2. Mapreduce - python api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
-        * ex: [word count](https://github.com/amanas/bi-school/python-wc.md) - try it 
+        * ex: [word count](https://github.com/amanas/bi-school/blob/master/python-wc.md) - try it 
     3. Pig
 		* [home]
 		* [intro]
 		* [sintaxis]
-		* ex: [word count](https://github.com/amanas/bi-school/pig-wc.md) - try it
+		* ex: [word count](https://github.com/amanas/bi-school/blob/master/pig-wc.md) - try it
 	4. Hive
 		* [home]
 		* [intro]
