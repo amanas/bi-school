@@ -53,7 +53,7 @@ Index
 		* [home]
 		* [intro]
 		* [sintaxis]
-		* ex: [word count]((https://github.com/amanas/bi-school/pig-wc.md) - try it)
+		* ex: [word count](https://github.com/amanas/bi-school/pig-wc.md) - try it
 	4. Hive
 		* [home]
 		* [intro]
