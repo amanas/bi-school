@@ -42,14 +42,13 @@ Index
 7. Frameworks map/reduce 
     1. Mapreduce - java api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
-        * ex: [word count +/- histogram](https://github.com/amanas/mapreduce-wc)
-        * try it 
+        * ex: [word count +/- histogram](https://github.com/amanas/mapreduce-wc) - try it 
         * On top of it
         	* [cascading](http://www.cascading.org/)
         	* [cascalog](http://cascalog.org/)        
     2. Mapreduce - python api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
-        * ex:  word count - the first in the document (no python) 
+        * ex: [word count](https://github.com/amanas/bi-school/resources/python-wc) - try it 
     3. Pig
 		* [home]
 		* [intro]
