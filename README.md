@@ -19,7 +19,7 @@ Index
     * [quotes](http://www.slideshare.net/BernardMarr/big-data-best-quotes/7-You_can_have_datawithout_information)
 2. Map/reduce
     * [intro/pseudocode/python](http://www.slideshare.net/JeffPatti/map-reducebeyondwordcount)
-    * [ex: discuss together a minimal wc ex]
+    * ex: discuss together a minimal wc ex
 3. Hadoop - YARN
     * [home](http://hadoop.apache.org/) and [doc](http://hadoop.apache.org/docs/current/)
     * [intro]
