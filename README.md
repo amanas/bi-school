@@ -22,7 +22,8 @@ Index
     * [ex: discuss together a minimal wc ex]
 3. Hadoop - YARN
     * [home](http://hadoop.apache.org/) and [doc](http://hadoop.apache.org/docs/current/)
-    * [intro](todo)
+    * [intro]
+    	*[1](http://www.slideshare.net/rvndkumar/hadoop-hive-presentation)
     * [hdfs commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
     * ex: copy dataset to hdfs
 4. Suites Hadoop  	
@@ -50,12 +51,12 @@ Index
         * [home](http://hadoop.apache.org/docs/current2/hadoop-streaming/HadoopStreaming.html)
         * ex: [word count](https://github.com/amanas/bi-school/blob/master/python-wc.md) - try it 
     3. Pig
-		* [home]
-		* [intro]
-		* [sintaxis]
+		* [home](https://pig.apache.org/)
+		* [intro](http://www.slideshare.net/jayshao/introduction-to-apache-pig)
+		* [docs - basic](http://pig.apache.org/docs/r0.14.0/basic.html)
 		* ex: [word count](https://github.com/amanas/bi-school/blob/master/pig-wc.md) - try it
 	4. Hive
-		* [home]
+		* [home](https://hive.apache.org/)
 		* [intro]
 		* [sintaxis]
 		* [ex: external table +/- histogram]
