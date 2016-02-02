@@ -27,10 +27,12 @@ Index
     * [hdfs commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
     * ex: copy dataset to hdfs
 4. Suites Hadoop  	
+	* [BigInsights](http://www.ibm.com/analytics/us/en/technology/hadoop/)
+		* try it on [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) if you have  12000+$
+		* or install [IBM BigInsights Quick Start VM](http://www.ibm.com/analytics/us/en/technology/hadoop/) if you have a pc with 16GB RAM and 50+GB free disk
     * [cloudera](http://cloudera.com/)
-    	* look at [QuickStart VM](http://www.cloudera.com/get-started/cloudera-live.html) and [install it](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
-    	* live HUE demo [registering](http://go.cloudera.com/hue-demo) or [without registration](http://demo.gethue.com/) - quite limited and slow 
-    * [BigInsights](http://www.ibm.com/analytics/us/en/technology/hadoop/)
+    	* look at [QuickStart VM](http://www.cloudera.com/get-started/cloudera-live.html) or [install it](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
+    	* live HUE demo [registering](http://go.cloudera.com/hue-demo) or [without registration](http://demo.gethue.com/) - quite limited and slow    
     * [hortonworks](http://hortonworks.com/)
 5. Virtualización Hadoop 
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
