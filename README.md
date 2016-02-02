@@ -22,7 +22,7 @@ Index
     * ex: discuss together a minimal wc ex
 3. Hadoop - YARN
     * [home](http://hadoop.apache.org/) and [doc](http://hadoop.apache.org/docs/current/)
-    * [intro]
+    * intro
     	* [1](http://www.slideshare.net/rvndkumar/hadoop-hive-presentation)
     * [hdfs commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
     * ex: copy dataset to hdfs
