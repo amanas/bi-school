@@ -38,10 +38,11 @@ Index
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
     * [Bluemix](http://www.ibm.com/cloud-computing/bluemix/)
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
-6. Suite cloudera 
-    * [home](http://cloudera.com/)
-    * [intro]
-    * [virtual box](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
+6. Suite BigInsights 
+    * [home](http://www.ibm.com/analytics/us/en/technology/hadoop/)
+    * [intro - todo]
+    	* [1](http://www.slideshare.net/CynthiaSaracco/introducing-ibms-info)
+    * [virtual box](http://www.ibm.com/analytics/us/en/technology/hadoop/) and follow "Try it"
 7. Frameworks map/reduce 
     1. Mapreduce - java api 
         * [home](http://hadoop.apache.org/docs/current2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
@@ -60,7 +61,7 @@ Index
 	4. Hive
 		* [home](https://hive.apache.org/)
 		* [intro]
-		* [sintaxis]
+		* [language manual](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
 		* [ex: external table +/- histogram]
 	5. Spark
 		* [home]
@@ -68,12 +69,12 @@ Index
 		* [python api + python repl]
 		* [ex: python repl wordcount]
 		    Optional - scala repl
-8. SQL for Hadoop
-	1. Impala - MPP
+8. Propietary SQL for Hadoop
+	1. Bigsql	
+		* [home]
+	2. Impala - MPP
 		* [home]
 		* [ex: externa table +/- histograma]
-	2. Bigsql	
-		* [home]
 9. Key/value stores
 	1. Hbase
 		* [home]
@@ -104,3 +105,5 @@ TODOs
 * seguir de principio a fin todos los ejemplos comprobando que funcionan  
 * [BigInsights home](http://www.ibm.com/analytics/us/en/technology/hadoop/) 
 * [BigInsights en Bluemix](https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop)
+
+** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) **
