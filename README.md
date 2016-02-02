@@ -34,7 +34,7 @@ Index
     	* look at [QuickStart VM](http://www.cloudera.com/get-started/cloudera-live.html) or [install it](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
     	* live HUE demo [registering](http://go.cloudera.com/hue-demo) or [without registration](http://demo.gethue.com/) - quite limited and slow    
     * [hortonworks](http://hortonworks.com/)
-5. Virtualización Hadoop 
+5. Hadoop virtualizations 
     * [AWS - EMR](https://aws.amazon.com/elasticmapreduce/)
     * [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) - virtualización de BigInsights
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
