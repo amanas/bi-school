@@ -11,7 +11,8 @@ Requirements
 A running instance of 
 [cloudera QuickStart VM](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
 
-Index ex-------
+Index ex
+-------
 1. Intro to BigData     * data vs big data
 	* [intro](http://www.slideshare.net/nasrinhussain1/big-data-ppt-31616290)    
 	* [intro 2](http://www.slideshare.net/hemapani/introduction-to-big-data)
