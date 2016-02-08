@@ -42,8 +42,8 @@ Index
     * [Google Cloud Platform](https://cloud.google.com/hadoop/)
 6. Suite BigInsights 
     * [home](http://www.ibm.com/analytics/us/en/technology/hadoop/)
-    * [intro - todo]
-    	* [1](http://www.slideshare.net/CynthiaSaracco/introducing-ibms-info)
+    * [intro](http://www.slideshare.net/CynthiaSaracco/introducing-ibms-info)
+    * show VMWare Ambari panel
     * [virtual box](http://www.ibm.com/analytics/us/en/technology/hadoop/) and follow "Try it"
 7. Frameworks map/reduce 
     1. Mapreduce - java api 
