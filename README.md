@@ -12,8 +12,9 @@ A running instance of
 [cloudera QuickStart VM](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
 
 Index ex
--------
-1. Intro to BigData     * data vs big data
+-------_
+1. Intro to BigData     
+	* data vs big data
 	* [intro](http://www.slideshare.net/nasrinhussain1/big-data-ppt-31616290)    
 	* [intro 2](http://www.slideshare.net/hemapani/introduction-to-big-data)
     * [quotes](http://www.slideshare.net/BernardMarr/big-data-best-quotes/7-You_can_have_datawithout_information)
