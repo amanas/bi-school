@@ -97,4 +97,4 @@ Index
 		* [home](http://sqoop.apache.org/)
 		* [cloudera example](http://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html)
 
-** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) **
+(** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) **)
