@@ -29,7 +29,7 @@ Index
     * ex: copy dataset to hdfs
 4. Suites Hadoop  	
 	* [BigInsights](http://www.ibm.com/analytics/us/en/technology/hadoop/)
-		* try it on [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) if you have 12000+$ and nothing better to invest in
+		* try it on [Bluemix](http://www.ibm.com/cloud-computing/bluemix/) if you have 12000$+ and nothing better to invest in
 		* or install [IBM BigInsights Quick Start VM](http://www.ibm.com/analytics/us/en/technology/hadoop/) if you have a pc with 16GB RAM and 50+GB free disk
     * [cloudera](http://cloudera.com/)
     	* look at [QuickStart VM](http://www.cloudera.com/get-started/cloudera-live.html) or [install it](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
