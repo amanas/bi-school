@@ -68,7 +68,7 @@ Index
 		* [home](https://spark.apache.org/)
 		* [guide](https://spark.apache.org/docs/latest/programming-guide.html)
 		* [intro](http://www.slideshare.net/arjones/introduccion-a-apache-spark)
-		* [ex: python repl wordcount] do it
+		* [ex: python repl wordcount] do it before [opening](https://github.com/amanas/bi-school/blob/master/spark-wc.md)
 		    Optional - scala repl
 8. SQL for Hadoop - MPP
 	1. Bigsql (IBM propietary)	
