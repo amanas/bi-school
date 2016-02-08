@@ -1,4 +1,4 @@
-Python word count 
+Spark word count 
 ----------------------
 
 ```python
