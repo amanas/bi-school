@@ -71,41 +71,31 @@ Index
 		* [python api + python repl]
 		* [ex: python repl wordcount]
 		    Optional - scala repl
-8. Propietary SQL for Hadoop
-	1. Bigsql	
-		* [home]
-	2. Impala - MPP
-		* [home]
-		* [ex: externa table +/- histograma]
+8. SQL for Hadoop - MPP
+	1. Bigsql (IBM propietary)	
+		* [home](http://www-01.ibm.com/software/data/infosphere/hadoop/big-sql.html)
+	2. Impala
+		* [home](http://impala.io/)
 9. Key/value stores
 	1. HBase
-		* [home]
-		* [intro]
-		* [shell commands]
+		* [home](https://hbase.apache.org/)
+		* [intro](http://www.slideshare.net/lfcipriani/hbase-introduction-to-column-oriented-databases)
+		* [shell commands](https://hbase.apache.org/book.html#shell)
+		* ex: use the shell to create a table, store a record and get it
 	2. Cassandra
-		* [home]
+		* [home](http://cassandra.apache.org/)
+		* [intro](http://www.slideshare.net/jbellis/cassandra-at-nosql-matters-2012)
 10. Others  
 	1. Phoenix
-		* [home]
-		* [intro]
+		* [home](https://phoenix.apache.org/)
+		* [intro](http://phoenix.apache.org/presentations/OC-HUG-2014-10-4x3.pdf)
+		* [in 15 mins or less](https://phoenix.apache.org/Phoenix-in-15-minutes-or-less.html)
 	2. Kafka 
-		* [home]
-		* [intro]
-		* [shell clients]
+		* [home](http://kafka.apache.org/)
+		* [clients - quick start](http://kafka.apache.org/documentation.html#quickstart)
 		* ex: create a topic and play with producer and consumer clients
 	3. Sqoop
-		* [home]
-		* [cloudera example link]
-
-  
-TODOs
------  
-* seleccionar las mejores diapositivas
-* preparar los scripts
-* preparar proyecto maven para hadoop mapreduce java api
-* probar la máquina virtual y comprobar que trae todos los servicio necesarios
-* seguir de principio a fin todos los ejemplos comprobando que funcionan  
-* [BigInsights home](http://www.ibm.com/analytics/us/en/technology/hadoop/) 
-* [BigInsights en Bluemix](https://console.ng.bluemix.net/catalog/services/analytics-for-apache-hadoop)
+		* [home](http://sqoop.apache.org/)
+		* [cloudera example](http://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html)
 
 ** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) **
