@@ -1,6 +1,6 @@
 BigData and Hadoop module for escuela-bi
 =======================================
-An introduction to BigData with Hadoop - cloudera suite focused
+An introduction to BigData with Hadoop - IBM BigInsights suite focused
 
 Example's dataset
 -----------------
@@ -8,7 +8,7 @@ Example's dataset
 
 Requirements
 ------------
-A running instance of [cloudera QuickStart VM](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
+A running instance of [IBM BigInsights Quick Start VM](http://www.ibm.com/analytics/us/en/technology/hadoop/)
 
 Index
 -----
