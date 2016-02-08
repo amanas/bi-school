@@ -96,5 +96,8 @@ Index
 	3. Sqoop
 		* [home](http://sqoop.apache.org/)
 		* [cloudera example](http://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html)
+	4. Storm
+		* [home](http://storm.apache.org/)
+		* [intro](http://www.slideshare.net/previa/storm-16094009)
 
 <!--  ** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) ** -->
