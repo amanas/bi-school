@@ -64,7 +64,7 @@ Index
 		* [home](https://hive.apache.org/)
 		* [intro](http://www.slideshare.net/tfpena/hadoop-tecnologiascsd)
 		* [language manual](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
-		* ex: [word count]
+		* ex: [word count](https://github.com/amanas/bi-school/blob/master/hive-wc.md) - try it
 	5. Spark
 		* [home]
 		* [intro]
