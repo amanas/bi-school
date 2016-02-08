@@ -77,7 +77,7 @@ Index ex
 		* [home]
 		* [ex: externa table +/- histograma]
 9. Key/value stores
-	1. Hbase
+	1. HBase
 		* [home]
 		* [intro]
 		* [shell commands]
