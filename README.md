@@ -65,10 +65,10 @@ Index
 		* [language manual](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
 		* ex: [word count](https://github.com/amanas/bi-school/blob/master/hive-wc.md) - try it
 	5. Spark
-		* [home]
-		* [intro]
-		* [python api + python repl]
-		* [ex: python repl wordcount]
+		* [home](https://spark.apache.org/)
+		* [guide](https://spark.apache.org/docs/latest/programming-guide.html)
+		* [intro](http://www.slideshare.net/arjones/introduccion-a-apache-spark)
+		* [ex: python repl wordcount] do it
 		    Optional - scala repl
 8. SQL for Hadoop - MPP
 	1. Bigsql (IBM propietary)	
