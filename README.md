@@ -1,6 +1,6 @@
 BigData and Hadoop module for escuela-bi
 =======================================
-An introduction to BigData with Hadoop - IBM BigInsights suite focused
+An introduction to BigData with Hadoop - cloudera suite focused
 
 Example's dataset
 -----------------
@@ -8,14 +8,13 @@ Example's dataset
 
 Requirements
 ------------
-A running instance of [IBM BigInsights Quick Start VM](http://www.ibm.com/analytics/us/en/technology/hadoop/)
+A running instance of 
+[cloudera QuickStart VM](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
 
-Index
------
-1. Intro to BigData 
-    * data vs big data
-    * [intro](http://www.slideshare.net/hemapani/introduction-to-big-data)
-    * [intro 2](http://www.slideshare.net/nasrinhussain1/big-data-ppt-31616290)
+Index ex-------
+1. Intro to BigData     * data vs big data
+	* [intro](http://www.slideshare.net/nasrinhussain1/big-data-ppt-31616290)    
+	* [intro 2](http://www.slideshare.net/hemapani/introduction-to-big-data)
     * [quotes](http://www.slideshare.net/BernardMarr/big-data-best-quotes/7-You_can_have_datawithout_information)
 2. Map/reduce
     * [intro/pseudocode/python](http://www.slideshare.net/JeffPatti/map-reducebeyondwordcount)
