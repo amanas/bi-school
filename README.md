@@ -11,7 +11,7 @@ Requirements
 A running instance of 
 [cloudera QuickStart VM](http://www.cloudera.com/downloads/quickstart_vms/5-4.html)
 
-Indexex
+Index
 --------
 1. Intro to BigData     
 	* data vs big data
@@ -25,6 +25,7 @@ Indexex
     * [home](http://hadoop.apache.org/) and [doc](http://hadoop.apache.org/docs/current/)
     * intro
     	* [1](http://www.slideshare.net/rvndkumar/hadoop-hive-presentation)
+    	* [2](http://www.slideshare.net/tfpena/hadoop-csd)
     * [hdfs commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
     * ex: copy dataset to hdfs
 4. Suites Hadoop  	
