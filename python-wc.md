@@ -56,7 +56,7 @@ for word in word2count.keys():
 and run it
 
 ```sh
-hadoop jar /opt/cloudera/parcels/CDH/jars/hadoop-streaming-2.6.0-mr1-cdh5.5.1.jar \
+hadoop jar /usr/hdp/2.3.2.0-2950/hadoop-mapreduce/hadoop-streaming.jar \
 -input el-quijote.txt \
 -output el-quijote-wc-python \
 -mapper mapper.py \
