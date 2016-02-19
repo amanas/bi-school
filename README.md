@@ -101,3 +101,6 @@ Index
 		* [intro](http://www.slideshare.net/previa/storm-16094009)
 
 <!--  ** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) ** -->
+
+
+<!-- counts.map(lambda (k,v): (v,k)).sortByKey(False).first() -->
