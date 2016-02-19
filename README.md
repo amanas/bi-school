@@ -102,5 +102,7 @@ Index
 
 <!--  ** review [this top presentations](http://www.hadoopwizard.com/top-10-presentations-for-learning-hadoop-on-slideshare/) ** -->
 
-
+<!-- most used -->
 <!-- counts.map(lambda (k,v): (v,k)).sortByKey(False).first() -->
+<!-- find particular one -->
+<!-- counts.filter(lambda (k,v): k == 'que').first() -->
