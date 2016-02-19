@@ -1,0 +1,17 @@
+Ejercicio:
+	- word count de el quijote con spark
+	- 10 palabras más frecuentes
+	- ¿cuantas veces aparece la palabra "Hidalgo"? 
+          y si no aparece ninguna, ¿cuantas veces aparece la palabra "que"?
+
+Examen:
+	- enviar un correo a amanas@viewnext.com indicando cosas como
+		- quien eres
+		- impresión general del modulo big data y hadoop
+		- crítica (para bien o mal del modulo big data)
+		- cosas que te han resultado interesantes y cosas que no
+		- cualquier otra cosa que se te ocurra. ejemplo
+			- por qué quieres trabajar en big data
+			- qué aportarías tu mejor que otros
+			- etc
+	- adjutar al correo el script word count con spark + comentarios si los tienes
