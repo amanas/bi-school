@@ -80,7 +80,7 @@ Index
 		* [home](https://hbase.apache.org/)
 		* [intro](http://www.slideshare.net/lfcipriani/hbase-introduction-to-column-oriented-databases)
 		* [shell commands](https://hbase.apache.org/book.html#shell)
-		* ex: use the shell to create a table, store a record and get it
+		* ex: use the shell to create a table, store a record and get it - [tutorial](https://www.mapr.com/products/mapr-sandbox-hadoop/tutorials/tutorial-getting-started-with-hbase-shell)
 	2. Cassandra
 		* [home](http://cassandra.apache.org/)
 		* [intro](http://www.slideshare.net/jbellis/cassandra-at-nosql-matters-2012)
